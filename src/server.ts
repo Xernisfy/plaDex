@@ -1,4 +1,4 @@
-import { STATUS_CODE } from './deps.ts';
+import { STATUS_CODE } from 'jsr:@std/http/status';
 
 enum Method {
   GET = 'GET',
@@ -29,11 +29,16 @@ export class Server {
     POST: [],
     PUT: [],
   };
-  defaultNotFound: Response = new Response(null, { status: STATUS_CODE.NotFound });
-  listen(options: Deno.ServeOptions): Deno.HttpServer {
+  defaultNotFound: Response = new Response(null, {
+    status: STATUS_CODE.NotFound,
+  });
+  listen(options: Deno.ServeTcpOptions): Deno.HttpServer {
     return Deno.serve(options, this.handler.bind(this));
   }
-  private handler(request: Request, info: Deno.ServeHandlerInfo): Response | Promise<Response> {
+  private handler(
+    request: Request,
+    info: Deno.ServeHandlerInfo,
+  ): Response | Promise<Response> {
     if (request.method in Method) {
       for (const { pattern, action } of this.routes[request.method as Method]) {
         if (!pattern.test(request.url)) continue;
@@ -50,7 +55,10 @@ export class Server {
     return this.defaultNotFound;
   }
   private registerRoute(method: Method, path: string, action: Action): void {
-    this.routes[method].push({ pattern: new URLPattern({ pathname: path }), action });
+    this.routes[method].push({
+      pattern: new URLPattern({ pathname: path }),
+      action,
+    });
   }
   get(path: string, action: Action): void {
     this.registerRoute(Method.GET, path, action);

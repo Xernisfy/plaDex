@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "jsx": "react-jsx",
-    "jsxImportSource": "https://esm.sh/preact"
+    "jsxImportSource": "npm:preact"
   },
   "fmt": {
     "singleQuote": true

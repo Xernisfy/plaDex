@@ -77,9 +77,9 @@ ws.addEventListener('open', () => {
 const dexEntries = dex.querySelectorAll('tr');
 const search = document.getElementById('search');
 const filter = document.getElementById('filter');
+const region = document.getElementById('region');
 function searchFilter() {
   const filterValue = filter.value;
-  const searchString = search.value.toLowerCase();
   for (const entry of dexEntries) {
     if (filterValue === 'all') {
       entry.hidden = false;
@@ -89,6 +89,16 @@ function searchFilter() {
       entry.hidden = entry.dataset.filter !== filterValue;
     }
     if (entry.hidden) continue;
+    const regionValue = region.value;
+    if (regionValue === 'all') {
+      entry.hidden = false;
+    } else if (!entry.dataset.region) {
+      entry.hidden = true;
+    } else {
+      entry.hidden = !entry.dataset.region.split(',').includes(regionValue);
+    }
+    if (entry.hidden) continue;
+    const searchString = search.value.toLowerCase();
     if (!searchString) {
       entry.hidden = false;
     } else {
@@ -100,3 +110,4 @@ function searchFilter() {
 }
 search.addEventListener('input', searchFilter, { passive: true });
 filter.addEventListener('input', searchFilter, { passive: true });
+region.addEventListener('input', searchFilter, { passive: true });
