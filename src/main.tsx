@@ -75,6 +75,12 @@ async function loadDex(): Promise<DexEntry[]> {
       return { index, name, sprite, link, tasks };
     }),
   );
+  // fixes
+  dexData[20].tasks[6].levels[4] = 1;
+  dexData[76].tasks[7].levels[4] = 1;
+  dexData[79].tasks[3].levels[4] = 100;
+  dexData[87].tasks[7].levels[4] = 1;
+  dexData[195].tasks[7].levels[4] = 1;
   Deno.writeTextFileSync(dexFilePath, JSON.stringify(dexData, null, 2));
   console.log('dex file generated', dexFilePath);
   return dexData;
@@ -89,9 +95,74 @@ async function loadTasks(link: string): Promise<Task[]> {
     ...doc.querySelectorAll('h3 + p + div > table > tbody > tr'),
   ] as Element[];
   if (!taskRows.length) {
-    //throw new Error('query error (task)', { cause: link });
     console.warn('missing task table', link);
-    return [];
+    switch (link) {
+      case 'https://www.bisafans.de/pokedex/489.php':
+        return [
+          { 'title': 'Exemplare gefangen', 'levels': [0, 0, 0, 0, 1] },
+          {
+            'title': 'Einsatz von Aquawelle gesehen',
+            'levels': [1, 3, 6, 12, 25],
+          },
+          {
+            'title': 'Einsatz von Zen-Kopfstoß gesehen',
+            'levels': [1, 3, 6, 12, 25],
+          },
+          { 'title': 'Krafttechnik gesehen', 'levels': [1, 3, 6, 12, 25] },
+        ];
+      case 'https://www.bisafans.de/pokedex/490.php':
+        return [
+          { 'title': 'Exemplare gefangen', 'levels': [0, 0, 0, 0, 1] },
+          {
+            'title': 'Einsatz von Mondgewalt gesehen',
+            'levels': [1, 3, 6, 12, 25],
+          },
+          {
+            'title': 'Einsatz von Mutschub gesehen',
+            'levels': [1, 3, 6, 12, 25],
+          },
+          { 'title': 'Krafttechnik gesehen', 'levels': [1, 3, 6, 12, 25] },
+          { 'title': 'Tempotechnik gesehen', 'levels': [1, 3, 8, 20, 40] },
+        ];
+      case 'https://www.bisafans.de/pokedex/493.php':
+        return [{
+          'title': 'Einen Teil von Arceus anvertraut bekommen',
+          'levels': [0, 0, 0, 0, 1],
+        }];
+      case 'https://www.bisafans.de/pokedex/550.php':
+        return [
+          { 'title': 'Exemplare gefangen', 'levels': [1, 2, 4, 10, 15] },
+          { 'title': 'Große Exemplare gefangen', 'levels': [1, 2, 3, 5, 7] },
+          {
+            'title': 'Einsatz von Wellentackle gesehen',
+            'levels': [1, 3, 8, 20, 40],
+          },
+          {
+            'title': 'Einsatz von Risikotackle gesehen',
+            'levels': [1, 3, 8, 20, 40],
+          },
+          {
+            'title': 'Exemplare, die sich entwickelt haben',
+            'levels': [0, 0, 0, 0, 1],
+          },
+        ];
+      case 'https://www.bisafans.de/pokedex/902.php':
+        return [
+          { 'title': 'Exemplare gefangen', 'levels': [1, 2, 3, 4, 5] },
+          {
+            'title': 'Einsatz von Wellentackle gesehen',
+            'levels': [1, 3, 8, 20, 40],
+          },
+          {
+            'title': 'Einsatz von Spukball gesehen',
+            'levels': [1, 3, 6, 12, 25],
+          },
+          { 'title': 'Krafttechnik gesehen', 'levels': [1, 3, 8, 20, 40] },
+          { 'title': 'Tempotechnik gesehen', 'levels': [1, 3, 8, 20, 40] },
+        ];
+      default:
+        return [];
+    }
   }
   const tasks: Task[] = [];
   for (const row of taskRows) {
@@ -158,6 +229,8 @@ server.get('/dex', () => {
                   <option value='kk'>Kobalt-Küstenland</option>
                   <option value='kh'>Kraterberg-Hochland</option>
                   <option value='wf'>Weißes Frostland</option>
+                  <option value='rz'>Raum-Zeit Verzerrung</option>
+                  <option value='??'>???</option>
                 </select>
               </td>
             </tr>

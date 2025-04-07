@@ -1,118 +1,98 @@
-// https://www.bisafans.de/spiele/editionen/legenden-arceus/fundorte.php
-
-import { DOMParser } from 'jsr:@b-fuze/deno-dom';
-
-const parseHtml =
-  ((p) => (source: string) => p.parseFromString.call(p, source, 'text/html'))(
-    new DOMParser(),
-  );
-
-const regionMap: Record<string, string> = {
-  // Obsidian-Grasland
-  'Ambitionshügel': 'og',
-  'Baumriesenkampffeld': 'og',
-  'Erztunnel': 'og',
-  'Felsenbrücke': 'og',
-  'Flora-Rodefläche': 'og',
-  'Geweihanhöhe': 'og',
-  'Geweihbergweg': 'og',
-  'Hamanasu-Insel': 'og',
-  'Hufeisenwiesen': 'og',
-  'Innerwald': 'og',
-  'Mündungsdamm': 'og',
-  'Obsidian-Wasserfall': 'og',
-  'Sandgemmenheide': 'og',
-  'See der Wahrheit': 'og',
-  'Strapazenhain': 'og',
-  'Waldesküche': 'og',
-  'Windpassage': 'og',
-  // Rotes Sumpfland
-  'Bühnenkampffeld': 'rs',
-  'Diamant-Ebene': 'rs',
-  'Diamant-Siedlung': 'rs',
-  'Geröllhügel': 'rs',
-  'Großmaulmoor': 'rs',
-  'Güldene Felder': 'rs',
-  'Nebelruinen': 'rs',
-  'Prankenplatz': 'rs',
-  'Prüfungsbarre': 'rs',
-  'Purpurrotes Moor': 'rs',
-  'Schlammplateau': 'rs',
-  'See der Kühnheit': 'rs',
-  'Surrende Felder': 'rs',
-  'Wolkenmeerkamm': 'rs',
-  'Wollgraswiese': 'rs',
-  // Kobalt-Küstenland
-  'Badelagune': 'kk',
-  'Feuerspei-Insel': 'kk',
-  'Ginkgo-Strand': 'kk',
-  'Griffel-Hügel': 'kk',
-  'Großfischfelsen': 'kk',
-  'Inselblickufer': 'kk',
-  'Kleine Meeresgrotte': 'kk',
-  'Küste der Verirrten': 'kk',
-  'Lavadom-Schrein': 'kk',
-  'Quellenpfad': 'kk',
-  'Sandfinger': 'kk',
-  'Schauriger Welkwald': 'kk',
-  'Schleierkap': 'kk',
-  'Seegrasidyll': 'kk',
-  'Stilles Binnenmeer': 'kk',
-  'Tombolo-Weg': 'kk',
-  'Übergangshang': 'kk',
-  'Versteckte Bucht': 'kk',
-  'Windbruchwald': 'kk',
-  // Kraterberg-Hochland
-  'Bizarre Höhle': 'kh',
-  'Einsame Quelle': 'kh',
-  'Elysien-Bergpfad': 'kh',
-  'Elysien-Tempelruinen': 'kh',
-  'Feenweiher': 'kh',
-  'Geröllberge': 'kh',
-  'Gipfelschwadentunnel': 'kh',
-  'Kletterklippe': 'kh',
-  'Mondgrußkampffeld': 'kh',
-  'Pilgerpfad': 'kh',
-  'Platz der Huldigung': 'kh',
-  'Sakralplateau': 'kh',
-  'Speersäule': 'kh',
-  'Steinplattenpass': 'kh',
-  'Uralter Steinbruch': 'kh',
-  'Urzeitliche Höhle': 'kh',
-  'Wirrwald': 'kh',
-  // Weißes Frostland
-  'Arktilas-Eisblock': 'wf',
-  'Blizzardtal': 'wf',
-  'Blizzard-Tempel': 'wf',
-  'Eisgipfelhöhle': 'wf',
-  'Eisige Ödnis': 'wf',
-  'Eissäulenkammer': 'wf',
-  'Firnfälle': 'wf',
-  'Geistesfelsen': 'wf',
-  'Gletscherpassage': 'wf',
-  'Gletscherstufen': 'wf',
-  'Lawinenhügel': 'wf',
-  'Pfad zum Kampffeld': 'wf',
-  'Schneeblicktherme': 'wf',
-  'See der Stärke': 'wf',
-  'Sinnoh-Tempel': 'wf',
+const regionNames = ['og', 'rs', 'kk', 'kh', 'wf', 'rz'] as const;
+const dexRegions: Record<
+  typeof regionNames[number],
+  (number | [number, number])[]
+> = {
+  og: [[10, 83], [86, 88], [127, 129], [154, 156], 226, 233],
+  rs: [
+    [10, 11],
+    [34, 36],
+    [39, 40],
+    [43, 48],
+    [53, 57],
+    [66, 71],
+    [89, 132],
+    [136, 138],
+    [140, 141],
+    227,
+    234,
+  ],
+  kk: [
+    [10, 14],
+    [18, 22],
+    [25, 33],
+    [37, 38],
+    [41, 50],
+    [53, 57],
+    [68, 71],
+    [78, 88],
+    [95, 96],
+    [99, 100],
+    [127, 129],
+    [140, 141],
+    [143, 176],
+    228,
+    232,
+  ],
+  kh: [
+    [15, 17],
+    [34, 36],
+    [43, 50],
+    [53, 54],
+    [66, 69],
+    [72, 75],
+    [80, 81],
+    [89, 92],
+    [97, 100],
+    [105, 108],
+    [110, 124],
+    [136, 138],
+    [154, 156],
+    [166, 167],
+    [177, 204],
+    230,
+  ],
+  wf: [
+    [10, 11],
+    [25, 38],
+    [43, 52],
+    [58, 60],
+    [64, 65],
+    [78, 79],
+    [86, 88],
+    [101, 104],
+    [125, 126],
+    [136, 138],
+    [152, 156],
+    [158, 160],
+    [166, 167],
+    [180, 189],
+    [195, 198],
+    [202, 207],
+    [212, 225],
+    229,
+    231,
+  ],
+  rz: [[1, 9], [133, 135], [208, 211]],
 };
-
-const document = parseHtml(
-  await (await fetch(
-    'https://www.bisafans.de/spiele/editionen/legenden-arceus/fundorte.php',
-  )).text(),
-);
 const regions: Record<string, string[]> = {};
-document.querySelectorAll('table tr').forEach((node, index) => {
-  const entryRegions: string[] = [];
-  node.querySelectorAll('.list-inline a[href*="routendex"]').forEach((a) => {
-    entryRegions.push(a.textContent.replace(' (Wackelnder Baum)', ''));
-  });
-  if (entryRegions.length) {
-    regions[index] = [...new Set(entryRegions.map((e) => regionMap[e]))];
+for (const region of regionNames) {
+  const dexRegion = dexRegions[region];
+  for (const indexes of dexRegion) {
+    let f, t;
+    if (Array.isArray(indexes)) [f, t] = indexes;
+    else f = indexes, t = indexes;
+    for (let i = f; i <= t; ++i) {
+      const index = i.toString();
+      if (!regions[index]) regions[index] = [];
+      regions[index].push(region);
+    }
   }
-});
+}
+for (let i = 1; i <= 242; ++i) {
+  const index = i.toString();
+  if (!regions[index]) regions[index] = ['??'];
+}
 Deno.writeTextFileSync(
   import.meta.dirname + '/regions.json',
   JSON.stringify(regions, null, 2),
