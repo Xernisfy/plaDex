@@ -4,6 +4,17 @@
     "jsxImportSource": "npm:preact"
   },
   "fmt": {
-    "singleQuote": true
-  }
+    "lineWidth": 120
+  },
+  "imports": {
+    "denoland/": "https://deno.land/x/",
+    "preact": "npm:preact",
+    "preact/": "npm:/preact/",
+    "@preact/signals": "npm:@preact/signals",
+    "utils/": "./src/utils/"
+  },
+  "tasks": {
+    "dev": "deno run -A --watch ./src/main.ts"
+  },
+  "unstable": ["kv"]
 }

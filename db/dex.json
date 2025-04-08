@@ -1,0 +1,3545 @@
+[
+  {
+    "name": "Bauz",
+    "nationalDex": "722",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/722.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blattwerk gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Ruheort gesehen (Level 11)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Aero-Ass gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Arboretoss",
+    "nationalDex": "723",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/723.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blattwerk gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Ruheort gesehen (Level 11)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Aero-Ass gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Hisui-Silvarro",
+    "nationalDex": "724",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/724-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Drillingspfeile gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Laubklinge gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Blättersturm gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Feurigel",
+    "nationalDex": "155",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/155.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Glut gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Ruckzuckhieb gesehen (Level 1)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Flammenrad gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Igelavar",
+    "nationalDex": "156",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/156.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Glut gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Ruckzuckhieb gesehen (Level 1)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Flammenrad gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Hisui-Tornupto",
+    "nationalDex": "157",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/157-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Phantomparade gesehen (Level 40)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hitzekoller gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Ottaro",
+    "nationalDex": "501",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/501.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Wasserdüse gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 25)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Zwottronin",
+    "nationalDex": "502",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/502.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Wasserdüse gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 25)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Hisui-Admurai",
+    "nationalDex": "503",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/503-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Klingenschwall gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hydropumpe gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Bidiza",
+    "nationalDex": "399",
+    "regions": ["og", "rs", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/399.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] },
+      { "title": "Die frechen Bidiza im Dorf erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Bidifas",
+    "nationalDex": "400",
+    "regions": ["og", "rs", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/400.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 20] },
+      { "title": "Einsatz von Biss gesehen (Level 10)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 23)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Staralili",
+    "nationalDex": "396",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/396.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Staravia",
+    "nationalDex": "397",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/397.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Aero-Ass gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Staraptor",
+    "nationalDex": "398",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/398.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Sturzflug gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Sheinux",
+    "nationalDex": "403",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/403.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Ruckzuckhieb gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Biss gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Luxio",
+    "nationalDex": "404",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/404.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Biss gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerzahn gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Luxtra",
+    "nationalDex": "405",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/405.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Donnerzahn gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Knirscher gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Stromstoß gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Waumpel",
+    "nationalDex": "265",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/265.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Giftstachel gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Schaloko",
+    "nationalDex": "266",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/266.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Giftstachel gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Papinella",
+    "nationalDex": "267",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/267.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Stachelspore gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Panekon",
+    "nationalDex": "268",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/268.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 20] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Giftstachel gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] },
+      { "title": "Unterschied zwischen Schaloko und Panekon erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Pudox",
+    "nationalDex": "269",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/269.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Giftpuder gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Ponita",
+    "nationalDex": "077",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/077.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Glut gesehen (Level 5)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Das seltene Ponita erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Gallopa",
+    "nationalDex": "078",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/078.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Feuersturm gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Evoli",
+    "nationalDex": "133",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/133.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Ruckzuckhieb gesehen (Level 6)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3, 5, 10] },
+      { "title": "Evolis Entwicklungen erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Aquana",
+    "nationalDex": "134",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/134.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Blitza",
+    "nationalDex": "135",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/135.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Donnerblitz gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Flamara",
+    "nationalDex": "136",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/136.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Psiana",
+    "nationalDex": "196",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/196.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Psychokinese gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Nachtara",
+    "nationalDex": "197",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/197.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Folipurba",
+    "nationalDex": "470",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/470.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Laubklinge gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Glaziola",
+    "nationalDex": "471",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/471.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Eisstrahl gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Feelinara",
+    "nationalDex": "700",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/700.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 18)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Feenbrise gesehen (Level 0)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Zubat",
+    "nationalDex": "041",
+    "regions": ["og", "rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/041.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Windstoß gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] },
+      { "title": "Zubats nächtliches Sehvermögen erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Golbat",
+    "nationalDex": "042",
+    "regions": ["og", "rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/042.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Biss gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Windschnitt gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Iksbat",
+    "nationalDex": "169",
+    "regions": ["og", "rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/169.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Giftstreich gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Blutsauger gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Driftlon",
+    "nationalDex": "425",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/425.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Konfusion gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hypnose gesehen (Level 5)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] },
+      { "title": "Das mit Kindern spielende Driftlon erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Drifzepeli",
+    "nationalDex": "426",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/426.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 3, 10, 25, 40] },
+      { "title": "Einsatz von Magieflamme gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Finale gesehen (Level 47)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Zirpurze",
+    "nationalDex": "401",
+    "regions": ["og", "rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/401.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Zirpeise",
+    "nationalDex": "402",
+    "regions": ["og", "rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/402.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Kreuzschere gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Bamelin",
+    "nationalDex": "418",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/418.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Wasserdüse gesehen (Level 6)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Bojelin",
+    "nationalDex": "419",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/419.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Burmy",
+    "nationalDex": "412",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/412.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Käfertrutz gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [3] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Burmadame",
+    "nationalDex": "413",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/413.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Konfusion gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Käfergebrumm gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [3] }
+    ]
+  },
+  {
+    "name": "Moterpel",
+    "nationalDex": "414",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/414.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Silberhauch gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Käfergebrumm gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Kleinstein",
+    "nationalDex": "074",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/074.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Walzer gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Georok",
+    "nationalDex": "075",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/075.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Steinhagel gesehen (Level 21)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Geowaz",
+    "nationalDex": "076",
+    "regions": ["og", "rs", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/076.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Stahl besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Tarnsteine gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Damhirplex",
+    "nationalDex": "234",
+    "regions": ["og", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/234.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Barrierenstoß gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Damythir",
+    "nationalDex": "899",
+    "regions": ["og", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/899.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Barrierenstoß gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Mampfaxo",
+    "nationalDex": "446",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/446.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Erholung gesehen (Level 9)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 5, 10, 15, 20] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Relaxo",
+    "nationalDex": "143",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/143.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 10, 20, 30, 50] }
+    ]
+  },
+  {
+    "name": "Paras",
+    "nationalDex": "046",
+    "regions": ["og", "rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/046.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Absorber gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Stachelspore gesehen (Level 5)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Parasek",
+    "nationalDex": "047",
+    "regions": ["og", "rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/047.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Pilzspore gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Giftschock gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Paraseks Pilz erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Pichu",
+    "nationalDex": "172",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/172.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nationalDex": "025",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/025.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Donnerschock gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerblitz gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Raichu",
+    "nationalDex": "026",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/026.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Eisenschweif gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Donner gesehen (Level 47)", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Abra",
+    "nationalDex": "063",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/063.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Teleport gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Kadabra",
+    "nationalDex": "064",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/064.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Käfer besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Gedankengut gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Psychoklinge gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Simsala",
+    "nationalDex": "065",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/065.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Genesung gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Psychokinese gesehen (Level 43)", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Panflam",
+    "nationalDex": "390",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/390.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Glut gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Panpyro",
+    "nationalDex": "391",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/391.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Flammenrad gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Panferno",
+    "nationalDex": "392",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/392.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Flammenblitz gesehen (Level 52)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Flammenwut gesehen (Level 46)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Haspiror",
+    "nationalDex": "427",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/427.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 5)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Schlapor",
+    "nationalDex": "428",
+    "regions": ["og", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/428.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Diebeskuss gesehen (Level 16)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nahkampf gesehen (Level 40)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Kikugi",
+    "nationalDex": "420",
+    "regions": ["og", "rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/420.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 5, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Absorber gesehen (Level 1)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Kinoso",
+    "nationalDex": "421",
+    "regions": ["og", "rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/421.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blättertanz gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Enton",
+    "nationalDex": "054",
+    "regions": ["og", "rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/054.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Konfusion gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Entoron",
+    "nationalDex": "055",
+    "regions": ["og", "rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/055.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Zen-Kopfstoß gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Wadribie",
+    "nationalDex": "415",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/415.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Windstoß gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] },
+      { "title": "Den Geschmack von Wadribies Honig erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Honweisel",
+    "nationalDex": "416",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/416.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Käfergebrumm gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Sichlor",
+    "nationalDex": "123",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/123.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Kreuzschere gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Axantor",
+    "nationalDex": "900",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/900.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Felsaxt gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Kreuzschere gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Scherox",
+    "nationalDex": "212",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/212.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Doppelschlag gesehen (Level 14)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Kreuzschere gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Skaraborn",
+    "nationalDex": "214",
+    "regions": ["og", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/214.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Elite-Poke&mon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Pantimimi",
+    "nationalDex": "439",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/439.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Mimikry gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Pantimos",
+    "nationalDex": "122",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/122.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Mimikry gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Das sich merkwürdig verhaltende Pantimos erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Griffel",
+    "nationalDex": "190",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/190.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Doppelschlag gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Ambidiffel",
+    "nationalDex": "424",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/424.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Doppelschlag gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Eisenschweif gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Karpador",
+    "nationalDex": "129",
+    "regions": ["og", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/129.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Platscher gesehen (Level 1)", "steps": [1, 5, 20, 50, 100] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3, 5, 10] }
+    ]
+  },
+  {
+    "name": "Garados",
+    "nationalDex": "130",
+    "regions": ["og", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/130.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Biss gesehen (Level 9)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Orkan gesehen (Level 37)", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Schalellos",
+    "nationalDex": "422",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/422.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Gastrodon",
+    "nationalDex": "423",
+    "regions": ["og", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/423.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Hisui-Baldorfish",
+    "nationalDex": "211",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/211-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Giftstachelregen gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Myriador",
+    "nationalDex": "904",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/904.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Giftstachelregen gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 26)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Wonneira",
+    "nationalDex": "440",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/440.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Chaneira",
+    "nationalDex": "113",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/113.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Weichei gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 5, 10, 15, 20] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Heiteira",
+    "nationalDex": "242",
+    "regions": ["og", "kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/242.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Diebeskuss gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Heiteiras Angewohnheit, Menschen zu helfen, erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Knospi",
+    "nationalDex": "406",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/406.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Absorber gesehen (Level 6)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Roselia",
+    "nationalDex": "315",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/315.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Giftpuder gesehen (Level 11)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Roserade",
+    "nationalDex": "407",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/407.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Energieball gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Blättertanz gesehen (Level 52)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Venuflibis",
+    "nationalDex": "455",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/455.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Säurespeier gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Lilminip",
+    "nationalDex": "548",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/548.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Giftpuder gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Dressella",
+    "nationalDex": "549",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/549-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blättertanz gesehen (Level 53)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Siegestanz gesehen (Level 42)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Tangela",
+    "nationalDex": "114",
+    "regions": ["rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/114.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Tangoloss",
+    "nationalDex": "465",
+    "regions": ["rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/465.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Gift besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Doppelschlag gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Energieball gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Schmerbe",
+    "nationalDex": "339",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/339.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Lehmschelle gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Welsar",
+    "nationalDex": "340",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/340.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Glibunkel",
+    "nationalDex": "453",
+    "regions": ["rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/453.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] },
+      { "title": "Aus Glibunkels Gift hergestellte Medizin erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Toxiquak",
+    "nationalDex": "454",
+    "regions": ["rs", "kk", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/454.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Giftschock gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Ränkeschmied gesehen (Level 21)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Trasla",
+    "nationalDex": "280",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/280.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Hypnose gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Kirlia",
+    "nationalDex": "281",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/281.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Diebeskuss gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Guardevoir",
+    "nationalDex": "282",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/282.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Stahl besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Zauberschein gesehen (Level 0)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Psychokinese gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Galagladi",
+    "nationalDex": "475",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/475.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Schwerttanz gesehen (Level 30)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nahkampf gesehen (Level 52)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Yanma",
+    "nationalDex": "193",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/193.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Abends gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Yanmega",
+    "nationalDex": "469",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/469.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Käfergebrumm gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Hippopotas",
+    "nationalDex": "449",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/449.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Biss gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hippoterus",
+    "nationalDex": "450",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/450.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Pachirisu",
+    "nationalDex": "417",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/417.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Funkensprung gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Von einem Baum springen gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Den Kampfstil von Pachirisu erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Skunkapuh",
+    "nationalDex": "434",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/434.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Giftwolke gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Säurespeier gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Skuntank",
+    "nationalDex": "435",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/435.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Giftschock gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Teddiursa",
+    "nationalDex": "216",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/216.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Kulleraugen gesehen (Level 6)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Ursaring",
+    "nationalDex": "217",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/217.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Dampfwalze gesehen (Level 11)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Ursaluna",
+    "nationalDex": "901",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/901.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Schmetterramme gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Viscora",
+    "nationalDex": "704",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/704.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Säurespeier gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Säurepanzer gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Hisui-Viscargot",
+    "nationalDex": "705",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/705-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Eisenschädel gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Hisui-Viscogon",
+    "nationalDex": "706",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/706-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Drachenpuls gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Refugium gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Onix",
+    "nationalDex": "095",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/095.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Steinhagel gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Tarnsteine gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Stahlos",
+    "nationalDex": "208",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/208.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Tarnsteine gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Eisenschweif gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Rihorn",
+    "nationalDex": "111",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/111.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Tarnsteine gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Rizeros",
+    "nationalDex": "112",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/112.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Steinhagel gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Rihornior",
+    "nationalDex": "464",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/464.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Steinhagel gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Mobai",
+    "nationalDex": "438",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/438.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Mimikry gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Mogelbaum",
+    "nationalDex": "185",
+    "regions": ["rs", "kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/185.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Mimikry gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Das niedergeschlagene Mogelbaum erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Schlurp",
+    "nationalDex": "108",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/108.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Walzer gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 10, 20, 30, 50] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Schlurplek",
+    "nationalDex": "463",
+    "regions": ["rs", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/463.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Zen-Kopfstoß gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Gigastoß gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Togepi",
+    "nationalDex": "175",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/175.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Einsatz von Diebeskuss gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Togetic",
+    "nationalDex": "176",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/176.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1] },
+      { "title": "Einsatz von Feenbrise gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Togekiss",
+    "nationalDex": "468",
+    "regions": ["og", "rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/468.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Mondgewalt gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Chelast",
+    "nationalDex": "387",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/387.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blattwerk gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Chelcarain",
+    "nationalDex": "388",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/388.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Biss gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Laubklinge gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Chelterrar",
+    "nationalDex": "389",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/389.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Holzhammer gesehen (Level 52)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Schmetterramme gesehen (Level 57)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Porygon",
+    "nationalDex": "137",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/137.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Tackle gesehen (Level 1)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Triplette gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Porygon2",
+    "nationalDex": "233",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/233.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Donnerblitz gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Genesung gesehen (Level 37)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Porygon-Z",
+    "nationalDex": "474",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/474.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Donnerblitz gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Genesung gesehen (Level 37)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hyperstrahl gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Nebulak",
+    "nationalDex": "092",
+    "regions": ["rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/092.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Erstauner gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Alpollo",
+    "nationalDex": "093",
+    "regions": ["rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/093.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Giftschock gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Gengar",
+    "nationalDex": "094",
+    "regions": ["rs", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/094.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Hypnose gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Spukball gesehen (Level 43)", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Kryppuk",
+    "nationalDex": "442",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/442.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Bürde gesehen (Level 11)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Kramurx",
+    "nationalDex": "198",
+    "regions": ["rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/198.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Ruheort gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Kramshef",
+    "nationalDex": "430",
+    "regions": ["rs", "kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/430.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Fee besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Standpauke gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Icognito",
+    "nationalDex": "201",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/201.png",
+    "tasks": [{ "title": "Registrierte Formen", "steps": [1, 5, 10, 15, 28] }]
+  },
+  {
+    "name": "Seemops",
+    "nationalDex": "363",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/363.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Walzer gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Seejong",
+    "nationalDex": "364",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/364.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Gestein besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Aquadurchstoß gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Walraisa",
+    "nationalDex": "365",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/365.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Eisstrahl gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Blizzard gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 4, 6, 8] }
+    ]
+  },
+  {
+    "name": "Remoraid",
+    "nationalDex": "223",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/223.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Ladestrahl gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Eisstrahl gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Octillery",
+    "nationalDex": "224",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/224.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Hydropumpe gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hyperstrahl gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Pionskora",
+    "nationalDex": "451",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/451.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Giftstachel gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Piondragi",
+    "nationalDex": "452",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/452.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Giftschock gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Giftstreich gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Hisui-Fukano",
+    "nationalDex": "058",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/058-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Feuerzahn gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Arkani",
+    "nationalDex": "059",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/059-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Steinhagel gesehen (Level 21)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Flammenwut gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Flammenblitz gesehen (Level 47)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Charmian",
+    "nationalDex": "431",
+    "regions": ["kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/431.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Ränkeschmied gesehen (Level 10)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Shnurgarst",
+    "nationalDex": "432",
+    "regions": ["kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/432.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Knuddler gesehen (Level 31)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 40)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 5, 10, 15, 20] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Machollo",
+    "nationalDex": "066",
+    "regions": ["og", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/066.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Zertrümmerer gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Maschock",
+    "nationalDex": "067",
+    "regions": ["og", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/067.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Psycho besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Patronenhieb gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Machomei",
+    "nationalDex": "068",
+    "regions": ["og", "kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/068.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Fee besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Protzer gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Nahkampf gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Plaudagei",
+    "nationalDex": "441",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/441.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Bei Tageslicht gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Windschnitt gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Zwirrlicht",
+    "nationalDex": "355",
+    "regions": ["kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/355.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Bürde gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Zwirrklop",
+    "nationalDex": "356",
+    "regions": ["kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/356.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Spukball gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Zwirrfinst",
+    "nationalDex": "477",
+    "regions": ["kk", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/477.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Finsteraura gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Spukball gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Plinfa",
+    "nationalDex": "393",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/393.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Blubber gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Pliprin",
+    "nationalDex": "394",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/394.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Ruheort gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Impoleon",
+    "nationalDex": "395",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/395.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Hydropumpe gesehen (Level 52)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Wellentackle gesehen (Level 57)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Mantirps",
+    "nationalDex": "458",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/458.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Mantax",
+    "nationalDex": "226",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/226.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 47)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Barschuft",
+    "nationalDex": "550",
+    "regions": ["kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/550.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Einsatz von Wellentackle gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Salmagnis",
+    "nationalDex": "902",
+    "regions": ["kk", "kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/902.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Wellentackle gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Spukball gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Vulpix",
+    "nationalDex": "037",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/037.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Glut gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] },
+      { "title": "Vulpix aus der Alola-Region erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Vulnona",
+    "nationalDex": "038",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/038.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 37)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Feuersturm gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Tentacha",
+    "nationalDex": "072",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/072.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Blubber gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Tentoxa",
+    "nationalDex": "073",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/073.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Gifthieb gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Hydropumpe gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Finneon",
+    "nationalDex": "456",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/456.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Blubber gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Lumineon",
+    "nationalDex": "457",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/457.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Silberhauch gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Magby",
+    "nationalDex": "240",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/240.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Einsatz von Flammenrad gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Magmar",
+    "nationalDex": "126",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/126.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Feuersturm gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Magbrant",
+    "nationalDex": "467",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/467.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Feuerschlag gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Flammenwurf gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Feuersturm gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Magnetilo",
+    "nationalDex": "081",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/081.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Donnerschock gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerwelle gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Magneton",
+    "nationalDex": "082",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/082.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Funkensprung gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Triplette gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Magnezone",
+    "nationalDex": "462",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/462.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Lichtkanone gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerblitz gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Bronzel",
+    "nationalDex": "436",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/436.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Konfusion gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Bronzong",
+    "nationalDex": "437",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/437.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Elite-Poke&mon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Geist besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Lichtkanone gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Elekid",
+    "nationalDex": "239",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/239.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Einsatz von Funkensprung gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Elektek",
+    "nationalDex": "125",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/125.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Donnerschlag gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Donner gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Elevoltek",
+    "nationalDex": "466",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/466.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Donnerwelle gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerschlag gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Skorgla",
+    "nationalDex": "207",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/207.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Skorgro",
+    "nationalDex": "472",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/472.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Wasser besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Schlammbombe gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Kreuzschere gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Kaumalat",
+    "nationalDex": "443",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/443.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Eis besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Windhose gesehen (Level 5)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Knarksel",
+    "nationalDex": "444",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/444.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Drache besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Drachenklaue gesehen (Level 21)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Knakrack",
+    "nationalDex": "445",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/445.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Fee besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Drachenklaue gesehen (Level 21)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Wutanfall gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 5, 20, 50, 10] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Nasgnet",
+    "nationalDex": "299",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/299.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Eisenabwehr gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] },
+      { "title": "Das Sprichwort zu Nasgnet erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Voluminas",
+    "nationalDex": "476",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/476.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Boden besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Juwelenkraft gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Erdkräfte gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] }
+    ]
+  },
+  {
+    "name": "Hisui-Voltobal",
+    "nationalDex": "100",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/100-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Funkensprung gesehen (Level 15)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Lektrobal",
+    "nationalDex": "101",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/101-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Donner gesehen (Level 37)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Chlorostrahl gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Finale gesehen (Level 47)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Rotom",
+    "nationalDex": "479",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/479.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Donnerschock gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Registrierte Formen", "steps": [2, 4, 6] }
+    ]
+  },
+  {
+    "name": "Klingplim",
+    "nationalDex": "433",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/433.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Konfusion gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Mit einer Knallkugel erschreckt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Palimpalim",
+    "nationalDex": "358",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/358.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Elite-Poke&mon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Unheilböen gesehen (Level 11)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Das Palimpalim unterm Vordach erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Traunfugil",
+    "nationalDex": "200",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/200.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Bürde gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Traunmagil",
+    "nationalDex": "429",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/429.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Bürde gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Juwelenkraft gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Pii",
+    "nationalDex": "173",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/173.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Kleine Exemplare gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Gefangen, während es geschlafen hat", "steps": [1] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] }
+    ]
+  },
+  {
+    "name": "Piepi",
+    "nationalDex": "035",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/035.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Diebeskuss gesehen (Level 15)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] },
+      { "title": "Die in Vollmondnächten tanzenden Piepi erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Pixi",
+    "nationalDex": "036",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/036.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Gift besiegt", "steps": [1, 2, 3] },
+      { "title": "Einsatz von Psychokinese gesehen (Level 29)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Mondgewalt gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Hisui-Sniebel",
+    "nationalDex": "215",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/215-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 4, 6, 8] },
+      { "title": "Registrierte Formen", "steps": [4] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Snieboss",
+    "nationalDex": "903",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/903.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Unheilsklauen gesehen (Level 11)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Schwerttanz gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Snibunna",
+    "nationalDex": "461",
+    "regions": ["kh", "wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/461.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Schlitzer gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Schwerttanz gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Schneppke",
+    "nationalDex": "361",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/361.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Eiszahn gesehen (Level 18)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Firnontor",
+    "nationalDex": "362",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/362.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Elite-Poke&mon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Attacke vom Typ Stahl besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Eiszahn gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Knirscher gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] }
+    ]
+  },
+  {
+    "name": "Frosdedje",
+    "nationalDex": "478",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/478.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Eiszapfhagel gesehen (Level 34)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Koknodon",
+    "nationalDex": "408",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/408.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 5)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Rameidon",
+    "nationalDex": "409",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/409.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Eisenschädel gesehen (Level 21)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Risikotackle gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Kopfstoß gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Schilterus",
+    "nationalDex": "410",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/410.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 5)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Bollterus",
+    "nationalDex": "411",
+    "regions": ["rz"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/411.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Eisenabwehr gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Erdkräfte gesehen (Level 29)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Tarnsteine gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 2, 4, 10, 15] }
+    ]
+  },
+  {
+    "name": "Quiekel",
+    "nationalDex": "220",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/220.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare gefangen, ohne entdeckt zu werden", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Eissplitter gesehen (Level 6)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1, 2, 3] },
+      { "title": "Quiekels besonderes Talent erforscht", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Keifel",
+    "nationalDex": "221",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/221.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Pflanze besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Antik-Kraft gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Mamutel",
+    "nationalDex": "473",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/473.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1, 2, 3] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Pferdestärke gesehen (Level 25)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Blizzard gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Arktip",
+    "nationalDex": "712",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/712.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Einsatz von Eissplitter gesehen (Level 9)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Aus einem Kristallstein springen gesehen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Arktilas",
+    "nationalDex": "713",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/713-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Schwere Exemplare gefangen", "steps": [1, 2, 3, 5, 7] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Kampf besiegt", "steps": [1, 2, 6, 12, 25] },
+      { "title": "Einsatz von Frostfallwind gesehen (Level 37)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Blizzard gesehen (Level 37)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Shnebedeck",
+    "nationalDex": "459",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/459.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Große Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Pulverschnee gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Registrierte Formen", "steps": [2] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Rexblisar",
+    "nationalDex": "460",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/460.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Einsatz von Blizzard gesehen (Level 34)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Holzhammer gesehen (Level 43)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Registrierte Formen", "steps": [2] }
+    ]
+  },
+  {
+    "name": "Hisui-Zorua",
+    "nationalDex": "570",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/570-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Nachts gefangen", "steps": [1, 2, 5, 10, 20] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Standpauke gesehen (Level 6)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Zoroark",
+    "nationalDex": "571",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/571-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Mit Attacke vom Typ Unlicht besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Niedertracht gesehen (Level 18)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Ränkeschmied gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Geronimatz",
+    "nationalDex": "627",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/627.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Leichte Exemplare gefangen", "steps": [1, 2, 5, 7, 10] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Elektro besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Luftschnitt gesehen (Level 20)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Ruheort gesehen (Level 25)", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Hisui-Washakwil",
+    "nationalDex": "628",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/628-hisui.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Gefangen, während es in der Luft war", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Einsatz von Auraschwingen gesehen (Level 25)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Einsatz von Sturzflug gesehen (Level 43)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Riolu",
+    "nationalDex": "447",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/447.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Flug besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Zertrümmerer gesehen (Level 1)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Mit Nahrung gefüttert", "steps": [1, 2, 3, 4, 5] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 3, 5, 7, 10] },
+      { "title": "Exemplare, die sich entwickelt haben", "steps": [1] }
+    ]
+  },
+  {
+    "name": "Lucario",
+    "nationalDex": "448",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/448.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Elite-Pokémon gefangen", "steps": [1] },
+      { "title": "Exemplare besiegt", "steps": [1, 2, 4, 10, 15] },
+      { "title": "Mit Attacke vom Typ Feuer besiegt", "steps": [1, 2, 4, 6, 10] },
+      { "title": "Einsatz von Aurasphäre gesehen (Level 21)", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Einsatz von Nahkampf gesehen (Level 47)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] },
+      { "title": "Schwerfällig gemacht", "steps": [1, 5, 10, 15, 20] }
+    ]
+  },
+  {
+    "name": "Selfe",
+    "nationalDex": "480",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/480.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Mythenkraft gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Gedankengut gesehen (Level 36)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Vesprit",
+    "nationalDex": "481",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/481.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Mythenkraft gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Genesung gesehen (Level 57)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Tobutz",
+    "nationalDex": "482",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/482.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Mythenkraft gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Finale gesehen (Level 57)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 10, 30, 70] }
+    ]
+  },
+  {
+    "name": "Heatran",
+    "nationalDex": "485",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/485.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Feuerzahn gesehen (Level 19)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Lavasturm gesehen (Level 57)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Regigigas",
+    "nationalDex": "486",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/486.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Eisenschädel gesehen (Level 36)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Gigastoß gesehen (Level 57)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Cresselia",
+    "nationalDex": "488",
+    "regions": ["kh"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/488.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Mondgewalt gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Lunargebet gesehen (Level 57)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Boreos",
+    "nationalDex": "641",
+    "regions": ["wf"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/641.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 31)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Polarorkan gesehen (Level 52)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Voltolos",
+    "nationalDex": "642",
+    "regions": ["kk"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/642.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 31)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Donnerorkan gesehen (Level 52)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Demeteros",
+    "nationalDex": "645",
+    "regions": ["og"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/645.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 31)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Wüstenorkan gesehen (Level 52)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Cupidos",
+    "nationalDex": "905",
+    "regions": ["rs"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/905.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Sondersensor gesehen (Level 31)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Frühlingsorkan gesehen (Level 52)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Dialga",
+    "nationalDex": "483",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/483.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Eisenschweif gesehen (Level 47)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Zeitenlärm gesehen (Level 60)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Palkia",
+    "nationalDex": "484",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/484.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Nassschweif gesehen (Level 47)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Raumschlag gesehen (Level 60)", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Giratina",
+    "nationalDex": "487",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/487.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Dunkelklaue gesehen (Level 19)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Schemenkraft gesehen (Level 60)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Arceus",
+    "nationalDex": "493",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/493.png",
+    "tasks": [{ "title": "Einen Teil von Arceus anvertraut bekommen", "steps": [1] }]
+  },
+  {
+    "name": "Phione",
+    "nationalDex": "489",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/489.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Aquawelle gesehen (Level 12)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Zen-Kopfstoß gesehen (Level 27)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  },
+  {
+    "name": "Manaphy",
+    "nationalDex": "490",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/490.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Mondgewalt gesehen (Level 36)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Mutschub gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Shaymin",
+    "nationalDex": "492",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/492.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Erdkräfte gesehen (Level 46)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Schocksamen gesehen (Level 57)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 8, 20, 40] }
+    ]
+  },
+  {
+    "name": "Darkrai",
+    "nationalDex": "491",
+    "regions": ["??"],
+    "sprite": "https://media.bisafans.de/67e4a00/pokemon/gen9/icon/statisch/491.png",
+    "tasks": [
+      { "title": "Exemplare gefangen", "steps": [1] },
+      { "title": "Einsatz von Spukball gesehen (Level 36)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Einsatz von Schlummerort gesehen (Level 57)", "steps": [1, 3, 6, 12, 25] },
+      { "title": "Krafttechnik gesehen", "steps": [1, 3, 8, 20, 40] },
+      { "title": "Tempotechnik gesehen", "steps": [1, 3, 6, 12, 25] }
+    ]
+  }
+]
