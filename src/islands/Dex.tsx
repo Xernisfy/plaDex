@@ -4,6 +4,7 @@ import { DexEntry } from "./DexEntry.tsx";
 import { FilterName } from "./FilterName.tsx";
 import { FilterProgress } from "./FilterProgress.tsx";
 import { FilterRegion } from "./FilterRegion.tsx";
+import { FilterTaskType } from "./FilterTaskType.tsx";
 import { Tasks } from "./Tasks.tsx";
 
 interface DexProps {
@@ -14,12 +15,13 @@ interface DexProps {
 export function Dex(props: DexProps) {
   saveData.value = props.saveData;
   return (
-    <div style={{ display: "flex", height: "100%", width: "100%" }}>
+    <div id="main">
       <div id="dex">
         <table id="selection">
           <FilterName />
           <FilterRegion />
           <FilterProgress />
+          <FilterTaskType />
         </table>
         <table id="dexTable">
           <tbody>

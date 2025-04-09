@@ -1,7 +1,7 @@
 import { Handlers } from "denoland/fresh/server.ts";
 import { DbDex } from "utils/types.ts";
+import dex from "../../db/dex.json" with { type: "json" };
 import { Dex } from "../islands/Dex.tsx";
-import dex from "./../../db/dex.json" with { type: "json" };
 
 export const handler: Handlers<PreloadData> = {
   GET(_req, ctx) {

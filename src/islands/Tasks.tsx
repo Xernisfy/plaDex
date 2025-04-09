@@ -1,5 +1,6 @@
 import { dexIndex, saveData } from "utils/signals.ts";
 import { DbDex } from "utils/types.ts";
+import { taskTypeRegex } from "./FilterTaskType.tsx";
 
 interface TasksProps {
   dex: DbDex;
@@ -10,7 +11,7 @@ export function Tasks({ dex }: TasksProps) {
     const currentValue = saveData.value[dexIndex.value]?.[taskIndex] || 0;
     return (
       <tr>
-        <th>{title}</th>
+        <th class={taskTypeRegex.test(title) ? "task-active" : undefined}>{title}</th>
         {[...new Array(5 - steps.length)].map(() => <td></td>)}
         {steps.map((step, stepIndex) => (
           <td
