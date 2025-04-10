@@ -46,7 +46,7 @@ html, body {
           display: flex;
           flex-direction: column;
           height: calc(100% - 72px);
-          overflow-y: scroll;
+          overflow-y: hidden;
           scrollbar-width: none;
           & > .task {
             display: flex;
@@ -134,6 +134,9 @@ html, body {
         color: white;
         padding: 4px;
         text-align: center;
+        & > option {
+          color: #27394f;
+        }
       }
       #filter-progress {
         width: 48px;
