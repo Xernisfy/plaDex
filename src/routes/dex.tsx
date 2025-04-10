@@ -1,11 +1,13 @@
 import { Handlers } from "denoland/fresh/server.ts";
 import { DbDex } from "utils/types.ts";
-import dex from "../../db/dex.json" with { type: "json" };
-import { Dex } from "../islands/Dex.tsx";
+import { Pokedex } from "../islands/Pokedex.tsx";
 
 export const handler: Handlers<PreloadData> = {
   GET(_req, ctx) {
-    return ctx.render({ dex, saveData: JSON.parse(Deno.readTextFileSync("db/save.json")) });
+    return ctx.render({
+      dex: JSON.parse(Deno.readTextFileSync("db/dex.json")),
+      saveData: JSON.parse(Deno.readTextFileSync("db/save.json")),
+    });
   },
 };
 
@@ -15,5 +17,5 @@ interface PreloadData {
 }
 
 export default function ({ data }: { data: PreloadData }) {
-  return <Dex dex={data.dex} saveData={data.saveData} />;
+  return <Pokedex dex={data.dex} saveData={data.saveData} />;
 }

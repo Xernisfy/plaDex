@@ -7,7 +7,7 @@ export default function App({ Component }: PageProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Pokémon Legenden: Wolfgang</title>
         <link rel="icon" type="image/png" href="/assets/favicon.png" />
-        <link rel="stylesheet" href="/sass/style.scss" />
+        <link rel="stylesheet" href="/scss/style.scss" />
       </head>
       <body>
         <Component />

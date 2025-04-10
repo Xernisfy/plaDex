@@ -1,6 +1,6 @@
 import { start } from "denoland/fresh/server.ts";
 import { walkSync } from "jsr:@std/fs";
-import { sassPlugin } from "utils/sassPlugin.ts";
+import { scssPlugin } from "utils/scssPlugin.ts";
 
 async function importDir<T>(dir: string): Promise<Record<string, T>> {
   const imports: Record<string, T> = {};
@@ -20,6 +20,6 @@ await start({
   islands: await importDir("islands"),
   routes: await importDir("routes"),
 }, {
-  plugins: [sassPlugin],
+  plugins: [scssPlugin],
   server: { port: Deno.args[0] },
 });

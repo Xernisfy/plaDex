@@ -10,7 +10,7 @@ export const handler: Handlers = {
     if (!db[dexIndex]) db[dexIndex] = [];
     db[dexIndex][taskIndex] = value;
     fmt("json", new TextEncoder().encode(JSON.stringify(db)))
-      .pipeTo(Deno.openSync(dbFile, { create: true, write: true }).writable);
+      .pipeTo(Deno.openSync(dbFile, { create: true, truncate: true, write: true }).writable);
     Deno.writeTextFileSync(dbFile, JSON.stringify(db));
     return new Response(JSON.stringify(db[dexIndex]));
   },
