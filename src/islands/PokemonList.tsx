@@ -18,7 +18,7 @@ export function PokemonList(props: PokemonListProps) {
         <FilterProgress />
       </div>
       <div id="list">
-        {entries.map(([dexEntry, dexIndex]) => <Pokemon dexEntry={dexEntry} dexIndex={dexIndex} />)}
+        {entries.map(([dexEntry, dexIndex]) => <Pokemon key={dexIndex} dexEntry={dexEntry} dexIndex={dexIndex} />)}
       </div>
       <div
         id="sort-order"
