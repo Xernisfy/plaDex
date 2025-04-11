@@ -10,8 +10,11 @@ html, body {
   width: 100%;
 }
 
-#main {
+body {
   background: #1818187c;
+}
+
+#main {
   display: flex;
   height: 100%;
   #task-list {
@@ -20,20 +23,24 @@ html, body {
     flex: 3;
     font-weight: 500;
     height: 100%;
+    min-width: 700px;
     text-align: center;
     #cover {
       background: #27394f;
       border-radius: 0px 16px 16px 0px;
+      display: flex;
+      flex-direction: column;
       height: calc(100% - 80px);
       padding: 16px;
       margin: 24px 0px;
       & > .paper {
         background: linear-gradient(to right, #f1eedd, #dddbbd);
         border-radius: 16px;
+        min-height: 0px;
         padding: 32px;
       }
       & > .paper:first-of-type {
-        height: calc(100% - 200px);
+        flex: 1;
         #title {
           align-content: center;
           background: linear-gradient(to right, transparent, #27394f 5%, #27394f 95%, transparent);
@@ -46,17 +53,17 @@ html, body {
           display: flex;
           flex-direction: column;
           height: calc(100% - 72px);
-          overflow-y: hidden;
-          scrollbar-width: none;
+          overflow: hidden;
           & > .task {
             display: flex;
             flex-direction: row;
-            min-height: 32px;
+            flex-basis: 32px;
             justify-content: space-between;
             padding: 16px 0px 16px 0px;
             & > .title {
               align-content: center;
               flex-grow: 1;
+              min-height: 32px;
               text-align: left;
               &.line-through {
                 text-decoration: line-through solid #27394f;
@@ -80,7 +87,7 @@ html, body {
               align-items: center;
               display: flex;
               justify-content: flex-end;
-              width: 360px;
+              min-width: 360px;
               & > .step {
                 background: #dbd4ad;
                 border-radius: 8px;
