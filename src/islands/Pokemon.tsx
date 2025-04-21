@@ -24,7 +24,8 @@ export function Pokemon(props: PokemonProps) {
     });
   });
   if (!filterProgress.value && completedTasks === allTasks) return null;
-  const progress = Math.floor(completedTasks / allTasks * 5) - 1;
+  let progressBall = undefined;
+  if (completedTasks) progressBall = Math.floor(completedTasks / allTasks * 4);
   return (
     <div
       class={"pokemon" +
@@ -38,7 +39,7 @@ export function Pokemon(props: PokemonProps) {
       <img class="sprite" loading="lazy" src={IS_BROWSER ? "/api/sprite?url=" + props.dexEntry.sprite : undefined} />
       <div class="index">#{(props.dexIndex + 1).toString().padStart(3, "0")}</div>
       <div class="name">{props.dexEntry.name}</div>
-      <img class="progress-ball" src={progress > -1 ? `/assets/pokeball${progress}.png` : undefined} />
+      <img class="progress-ball" src={progressBall !== undefined ? `/assets/pokeball${progressBall}.png` : undefined} />
     </div>
   );
 }
